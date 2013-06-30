@@ -12,8 +12,11 @@
 	    download)
 		echo "$self: DOWNLOAD to $ARGUMENT"
 		
+		# make a copy to display the preview
 		cp $ARGUMENT ./preview.jpg
-		mv $ARGUMENT ../capture/$ARGUMENT	
+		
+		# move to the final folder
+		mv $ARGUMENT ./capture/$ARGUMENT	
 
 		;;
 	    stop)
