@@ -11,7 +11,7 @@ Prerequisites
 gphoto2 command line tool. Part of the gPhoto2 project, see: http://www.gphoto.org/
 The grab script uses the display tool from the ImageMagick project, see http://www.imagemagick.org/
 
-Install bothon mac osx with macports, see: http://www.macports.org/
+Install both on mac osx with macports, see: http://www.macports.org/
 
 
 Scripts
